@@ -6,10 +6,10 @@ A readme file template for Data students
 It's important for Data students to include visualizations, so please add those throughout. 
 
 # Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is part of the Data Analytics and Visualization Bootcamp at Rutgers University. 
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences but ensure it offers a clear overview)
 
 ### Methods Used
 * Inferential Statistics
