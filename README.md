@@ -6,7 +6,7 @@ A readme file template for Data students
 It's important for Data students to include visualizations, so please add those throughout. 
 
 # Project Name
-This project is part of the Data Analytics and Visualization Bootcamp at Rutgers University. 
+Example: This project is part of the Data Analytics and Visualization Bootcamp at Rutgers University. 
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences but ensure it offers a clear overview)
